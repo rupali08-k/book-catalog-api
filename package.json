@@ -2,12 +2,10 @@
   "name": "book-catalog-api",
   "version": "1.0.0",
   "main": "index.js",
-  
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js" 
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -22,5 +20,4 @@
   "devDependencies": {
     "nodemon": "^3.1.14"
   }
-  
 }
